@@ -7,3 +7,5 @@ This repository is used to demonstrate the connection with Jira and add collabor
 * adding the key.
 ## Author
 Daniyal Haider
+## Contributing
+If you'd like to contribute to this repository, please submit a pull request with a clear description of your changes.
