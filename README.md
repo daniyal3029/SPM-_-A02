@@ -11,3 +11,5 @@ Daniyal Haider
 If you'd like to contribute to this repository, please submit a pull request with a clear description of your changes.
 ## License
 This repository is licensed under the MIT License.
+## Getting Started
+To get started with this repository, simply clone it and review the contents.
