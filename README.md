@@ -13,3 +13,5 @@ If you'd like to contribute to this repository, please submit a pull request wit
 This repository is licensed under the MIT License.
 ## Getting Started
 To get started with this repository, simply clone it and review the contents.
+## Badges
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
