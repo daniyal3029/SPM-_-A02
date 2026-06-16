@@ -15,3 +15,11 @@ This repository is licensed under the MIT License.
 To get started with this repository, simply clone it and review the contents.
 ## Badges
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Table of Contents
+* [Description](#description)
+* [Tasks](#tasks)
+* [Author](#author)
+* [Contributing](#contributing)
+* [License](#license)
+* [Getting Started](#getting-started)
+* [Badges](#badges)
