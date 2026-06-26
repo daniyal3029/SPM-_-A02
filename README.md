@@ -23,3 +23,5 @@ To get started with this repository, simply clone it and review the contents.
 * [License](#license)
 * [Getting Started](#getting-started)
 * [Badges](#badges)
+## Acknowledgments
+Thanks to the open-source community for their support and to Jira for providing a platform to connect with this repository.
