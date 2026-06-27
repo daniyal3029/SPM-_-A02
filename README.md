@@ -8,7 +8,7 @@ This repository is used to demonstrate the connection with Jira and add collabor
 ## Author
 Daniyal Haider
 ## Contributing
-If you'd like to contribute to this repository, please submit a pull request with a clear description of your changes.
+If you'd like to contribute to this repository, please submit a pull request with a clear description of your changes. For more information on the contribution process, please see our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 ## License
 This repository is licensed under the MIT License.
 ## Getting Started
