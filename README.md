@@ -25,3 +25,8 @@ To get started with this repository, simply clone it and review the contents.
 * [Badges](#badges)
 ## Acknowledgments
 Thanks to the open-source community for their support and to Jira for providing a platform to connect with this repository.
+## Usage Example
+To use this repository, follow these steps:
+1. Clone the repository using `git clone https://github.com/daniyal3029/SPM-_-A02.git`
+2. Review the contents of the repository
+3. Explore the repository's connection with Jira
