@@ -30,3 +30,7 @@ To use this repository, follow these steps:
 1. Clone the repository using `git clone https://github.com/daniyal3029/SPM-_-A02.git`
 2. Review the contents of the repository
 3. Explore the repository's connection with Jira
+## Troubleshooting
+If you encounter any issues while using this repository, please check the following:
+* Ensure you have the latest version of Git installed
+* Verify that your Jira connection is active and configured correctly
