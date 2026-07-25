@@ -35,3 +35,5 @@ If you encounter any issues while using this repository, please check the follow
 * Ensure you have the latest version of Git installed
 * Verify that your Jira connection is active and configured correctly
 * Check the repository's [issues page](https://github.com/daniyal3029/SPM-_-A02/issues) for known problems and solutions
+
+Note: You can also reach out to the repository maintainers for assistance by opening a new issue or contacting us directly at [ Daniyal Haider's email address or other contact information ]
