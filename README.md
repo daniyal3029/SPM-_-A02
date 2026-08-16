@@ -36,3 +36,5 @@ If you encounter any issues while using this repository, please check the follow
 * Verify that your Jira connection is active and configured correctly
 * Check the repository's [issues page](https://github.com/daniyal3029/SPM-_-A02/issues) for known problems and solutions
 Note: You can also reach out to the repository maintainers for assistance by opening a new issue or contacting us directly at [daniyalhaider@example.com](mailto:daniyalhaider@example.com).
+## Code of Conduct
+This project adheres to the standard GitHub Code of Conduct. By participating in this project, you agree to abide by its terms.
